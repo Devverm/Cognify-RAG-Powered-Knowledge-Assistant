@@ -67,7 +67,7 @@ Make sure the following are installed before running the app:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GURPREETKAURJETHRA/RAG-Based-LLM-Chatbot.git
+git clone https://github.com/Devverm/Cognify-RAG-Powered-Knowledge-Assistant/
 cd RAG-Based-LLM-Chatbot
 ```
 
